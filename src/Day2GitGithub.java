@@ -14,13 +14,13 @@ public class Day2GitGithub {
         git diff --staged --> Staging Area daki değişiklikleri gösterir
         git commit -m "first commit"
         git show "hashcode" --> Versiyondaki değişiklikleri gösterir
-        git log --oneline
+        git log --oneline---> commitlerimdeki yani versiyonlarimdaki durumlari gosterir
         git remote add origin https://github.com/techproed2020/Git_...
         git push -u origin master
 
 
 */
 
-
+        System.out.println("GitHub' i ogrendim");
     }
 }
