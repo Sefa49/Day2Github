@@ -17,6 +17,7 @@ public class Day2GitGithub {
         git log --oneline---> commitlerimdeki yani versiyonlarimdaki durumlari gosterir
         git remote add origin https://github.com/techproed2020/Git_...
         git push -u origin master
+        not --->github ogreniyorum
 
 
 */
